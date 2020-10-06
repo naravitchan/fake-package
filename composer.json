@@ -1,0 +1,25 @@
+{
+    "name": "naravitchan/fake-package",
+    "description": "test",
+    "type": "dev",
+    "authors": [
+        {
+            "name": "seagame",
+            "email": "test@example.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Naravichchan\\FakePackage\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Naravichchan\\FakePackage\\SeagameServiceProvider"
+            ]
+        }
+    }
+}
