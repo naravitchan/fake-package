@@ -1,4 +1,4 @@
-# Example Lumen Package
+# Test Lumen Package
 
 Add the following to your app.php to register the [service provider](http://lumen.laravel.com/docs/providers)
 
