@@ -13,4 +13,9 @@ class Seagame
     {
         return "get from package";
     }
+
+    public static function echo(string $s)
+    {
+        echo $s;
+    }
 }

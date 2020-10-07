@@ -2,7 +2,6 @@
 
 namespace Naravichchan\FakePackage;
 
-use Log;
 use Illuminate\Support\ServiceProvider;
 
 class SeagameServiceProvider extends ServiceProvider 
